@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Mckenzie's github stats](https://github-readme-stats.vercel.app/api?username=mckenz31&count_private=true&hide=issues,stars&theme=radical)
 <!--
 **Mckenz31/Mckenz31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
