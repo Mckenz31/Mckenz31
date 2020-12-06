@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Hey, I am an undergraduate who is keep to explore and learn various new things.
+Hey, I am an undergraduate who is keen to explore and learn various new things.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
