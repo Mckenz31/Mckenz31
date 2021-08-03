@@ -1,4 +1,7 @@
-### Hello there, I am [Mckenzie!](https://mckenz31.github.io) 👋
+### Hello there, I am Mckenzie! 👋
+
+🐦 Keep up with me [Twitter/Mckenzie_MLJ](https://twitter.com/Mckenzie_MLJ)
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">  
     <img alt="Mckenzie's github stats" src="https://github-readme-stats.vercel.app/api?username=mckenz31&count_private=true&hide=issues,stars&theme=radical&show_icons=true"/>
