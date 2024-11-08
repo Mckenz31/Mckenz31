@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Hey, I am an recent graduate from the MS CS program at UT Tyler who is keen to explore and learn various new things.
+Exploring and coding
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
