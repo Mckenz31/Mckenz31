@@ -50,6 +50,3 @@ I’m a full-stack developer who moves fast building backend systems, AI workflo
 
 LinkedIn: [linkedin.com/in/mckenz31](https://linkedin.com/in/mckenz31)
 
----
-
-> Currently building [Stilliq](https://www.stilliq.com) — an AI assistant that adapts your day to your energy, thoughts, and wearables.
